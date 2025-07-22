@@ -1,2 +1,2 @@
 # CODSOFT
-CodSoft Internship Task
+CodSoft Internship Tasks
